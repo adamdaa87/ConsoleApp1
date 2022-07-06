@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         public class whoIsMario
         {
-            public string mario = "Its a me";
+            public string mario = "Its a maffaffwawfe";
         }
     }
 }
