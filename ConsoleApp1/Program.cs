@@ -2,8 +2,5 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, First!");
 Console.WriteLine("Its a me, mario");
-<<<<<<< HEAD
-=======
 Console.WriteLine("Its a me, mario");
 
->>>>>>> master
