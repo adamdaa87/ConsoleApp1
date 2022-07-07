@@ -10,9 +10,14 @@ namespace ConsoleApp1
     {
         public class whoIsMario
         {
+<<<<<<< HEAD
 
             public string mario = "It's me, Daniel";
 
+=======
+            public string mario = "Its a maffaffwawfe";
+            public string mario = "It's me, Daniel";
+>>>>>>> 673209b5d0e54fc9ffd7e96ad262d52c96244720
         }
     }
 }
